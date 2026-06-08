@@ -726,5 +726,5 @@ MIT License
 
 # Author
 
-Aditya Dandotia
-Full Stack Laravel Engineer
+-Aditya Dandotia
+-Full Stack Laravel Engineer
